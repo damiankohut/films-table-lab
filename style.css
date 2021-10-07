@@ -1,3 +1,14 @@
+* {
+ border-collapse: collapse;
+}
 td{
-    border: 1px solid black;
+    border: 2px solid black;
+    
+}
+th{
+    border: 5px solid black;
+}
+
+h1{
+    text-align: center;
 }
